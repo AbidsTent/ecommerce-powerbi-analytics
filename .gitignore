@@ -1,0 +1,11 @@
+# Downloaded source data
+*.csv
+/data/raw/
+
+# Local Power BI and Windows files
+*.pbix.tmp
+*.pbit.tmp
+~$*
+Thumbs.db
+Desktop.ini
+
