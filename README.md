@@ -48,5 +48,5 @@ The report covers a partial historical window. Purchase month reflects when orde
 
 This project demonstrates Power BI Desktop report design, Power Query (M) profiling and lookup joins, relationship modelling, DAX KPIs and time intelligence, and source-to-report reconciliation.
 
-[Data dictionary](docs/data_dictionary.md) · [Interview preparation](docs/interview_prep.md)
+[Data dictionary](docs/data_dictionary.md) 
 
